@@ -1,0 +1,195 @@
+.d-none{
+    display: none!important;
+}
+
+
+nav{
+    width:100%;
+    height: .88rem;
+    background: pink;
+    padding: 0 .24rem;
+}
+button{
+    background: none;
+    padding: 0!important;
+}
+
+.Groupingbtn{
+  background: none;
+}
+.Grouping{
+    width: .44rem;
+    height: .44rem;
+    display: block;
+
+}
+.safe{
+
+}
+.logo{
+    width: 1.28rem;
+    display: block;
+}
+.sousuo{
+    width: 4.32rem;
+    height: .66rem;
+    background: #f1f1f1;
+    border-radius: .4rem;
+    padding: 0 .24rem;
+}
+.sousuo>input{
+    font-size: .36rem;
+    color: #808080;
+    background: none;
+    width: 2.80rem;
+    display: block;
+    /*padding: 0 .2rem;*/
+}
+input::-webkit-input-placeholder{
+    font-size: .36rem;
+    color: #808080;
+    background: none;
+
+}
+.magnifier{
+    width: .3rem;
+
+    color: #808080;
+    display: block;
+}
+.scanning{
+    width: .3rem;
+    height: .3rem;
+    display: block;
+}
+.scanningbtn{
+    background: none;
+}
+.nav{
+    height: .52rem;
+    padding: 0 .62rem;
+    border-bottom: .01rem solid #d7d7d7;
+}
+.nav>a{
+    font-size: .32rem;
+    color: #777777;
+}
+.nav>a:hover{
+    color: #333333;
+    border-bottom: .04rem solid #4ac6ff!important;
+
+}
+
+.swiper-container{
+    padding-left: .24rem;
+}
+.swiper-wrapper{
+    height: 3.16rem;
+
+}
+
+.swiper-slide>img{
+    width: 4.84rem;
+    display: block;
+    margin-left: .12rem;
+}
+.floor1{
+
+    padding: 0 .24rem;
+
+}
+.floor1-1{
+    height: 2.12rem;
+    border-top: .01rem solid #d7d7d7;
+    border-bottom: .01rem solid #d7d7d7;
+    padding-top: .2rem;
+}
+.floor1-3{
+    height:3.14rem;
+}
+.floor1tex>span{
+    font-size: .36rem;
+    line-height: .5rem;
+    width: 4.28rem;
+    letter-spacing: -.008rem;
+}
+.floor1tex>p{
+    font-size: .36rem;
+    line-height: .5rem;
+    letter-spacing: -.008rem;
+}
+.aircraft{
+    width: 2.56rem;
+    height: 1.44rem;
+    display: block;
+}
+.floor1-2 span{
+    font-size: .2rem;
+    color: #a6a6a6;
+
+}
+.comment{
+    width: .24rem;
+    display:block;
+
+}
+.select{
+    width: .2rem;
+    display: block;
+
+}
+.hide{
+    width: .22rem;
+    display: block;
+}
+.floor1-1 button{
+    display: block;
+}
+
+.floor1-2{
+
+}
+.floor1-2div{
+    width: 2.56rem;
+    height: .4rem;
+}
+.shoucang{
+    margin-left: .06rem;
+}
+.saner{
+    margin-left: .06rem;
+}
+.ship{
+    padding-top: .1rem;
+}
+.ship img{
+    display: block;
+    width: 2.32rem;
+}
+.tab{
+    height: .98rem;
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: #ededed;
+    padding: 0 .8rem;
+}
+.tab p{
+    font-size: .22rem;
+    /*color: #4ac6ff;*/
+    color: #757575
+}
+.mine{
+    display: block;
+    width: .48rem;
+
+}
+.homepage{
+    display: block;
+    width: .6rem;
+}
+.video{
+    display: block;
+    width: .48rem;
+}
