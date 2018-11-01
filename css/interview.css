@@ -70,7 +70,7 @@ input::-webkit-input-placeholder{
     padding: 0 .62rem;
     border-bottom: .01rem solid #d7d7d7;
 }
-.one,.two,.three,.four{
+.nav>a{
     font-size: .32rem;
     color: #777777;
 }
