@@ -74,6 +74,10 @@ input::-webkit-input-placeholder{
     font-size: .32rem;
     color: #777777;
 }
+.nav>a.active{
+    color: #333333;
+    border-bottom: .04rem solid #4ac6ff!important;
+}
 /*.nav>a:hover{*/
     /*color: #333333;*/
     /*border-bottom: .04rem solid #4ac6ff!important;*/

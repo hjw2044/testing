@@ -59,16 +59,7 @@ $(function(){
     })
 
     $('.nav>a').click(function(){
-        $(this).css({
-            color: "#333333",
-            'border-bottom':".04rem solid #4ac6ff"
-        });
-        $(this).siblings.css({
-            color: "#777777",
-            'border-bottom':"none"
-
-        });
-
+        $(this).addClass("active").siblings().removeClass('active')
     })
 
 
